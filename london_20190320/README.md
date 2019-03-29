@@ -4,6 +4,8 @@
 
 ### Topic 1 - 
 
+![Topic 1](https://raw.githubusercontent.com/threatmodelingmeetup/outputs/master/london_20190320/20190320_210229.jpg)
+
 ### Topic 2 - How do you measure the value of threat modeling?
 
 ![Topic 2](https://raw.githubusercontent.com/threatmodelingmeetup/outputs/master/london_20190320/20190320_210326.jpg)
@@ -50,7 +52,13 @@
 
 ### Topic 3 -
 
+![Topic 3](https://raw.githubusercontent.com/threatmodelingmeetup/outputs/master/london_20190320/20190320_210235.jpg)
+
 ### Topic 4 -
 
+![Topic 4](https://raw.githubusercontent.com/threatmodelingmeetup/outputs/master/london_20190320/E-ru4zEI.jpg)
+
 ## Suggested Topics
+
+![Suggested Topics](https://raw.githubusercontent.com/threatmodelingmeetup/outputs/master/london_20190320/20190320_211759.jpg)
 
