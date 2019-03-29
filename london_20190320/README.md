@@ -6,6 +6,8 @@
 
 ### Topic 2 - How do you measure the value of threat modeling?
 
+![Topic 2](https://raw.githubusercontent.com/threatmodelingmeetup/outputs/master/london_20190320/20190320_210326.jpg)
+
 #### Objectives
 
 * Making it easier to satisfy auditors
